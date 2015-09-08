@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="934ce0ae-31f7-4c83-b820-fb1c88dc5ee9" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/7herbs.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/blueflower.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/blueflower2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/circle.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/lightblueflower.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/B3-02/material.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/numbers.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/orange.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/parasol.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/particle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/pinkflower.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/redflower.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/sky.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/sky_cloud.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/sky_roof.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/yellowflower.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/3objects.mqo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/B3-01/B3-01.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CH02/ClickedPoints/ClickedPoints.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CH02/ClickedPoints/ClickedPoints.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CH02/ColoredPoint/ColoredPoint.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CH02/ColoredPoint/ColoredPoint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CH02/DrawingRectangle/DrawingRectangle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CH02/DrawingRectangle/DrawingRectangle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CH02/HelloCanvas/HelloCanvas.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CH02/HelloCanvas/HelloCanvas.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CH02/HelloPoint1/HelloPoint1.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CH02/HelloPoint1/HelloPoint1.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CH02/HelloPoint2/HelloPoint2.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CH02/HelloPoint2/HelloPoint2.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CH03/HelloQuad/HelloQuad.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CH03/HelloQuad/HelloQuad.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CH03/HelloTriangle/HelloTriangle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CH03/HelloTriangle/HelloTriangle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/B3-02/InitShaders.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CH03/MultiPoint/MultiPoint.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CH03/MultiPoint/MultiPoint.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CH03/RotatedTriangle/RotatedTriangle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CH03/RotatedTriangle/RotatedTriangle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CH03/TranslatedTriangle/TranslatedTriangle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CH03/TranslatedTriangle/TranslatedTriangle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/cube.mqo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/cube.mtl" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/cube.obj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cuon-matrix.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/cuon-utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/B3-02/demo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/kaeru.mqo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/B3-02/main.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/sphere.mqo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/vase.mqo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/webGLshader.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/webgl-debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/common/webgl-utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/webgl-utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="webGLshader.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="webGLshader" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="RotatedTriangle.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CH03/RotatedTriangle/RotatedTriangle.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.62589926">
+              <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+              <folding>
+                <marker date="1441681795000" expanded="true" signature="330:553" placeholder="{...}" />
+                <marker date="1441681795000" expanded="true" signature="638:701" placeholder="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RotatedTriangle.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CH03/RotatedTriangle/RotatedTriangle.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="202" />
+    <option name="y" value="23" />
+    <option name="width" value="1166" />
+    <option name="height" value="837" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webGLshader" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webGLshader" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webGLshader" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webGLshader" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webGLshader" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CH03" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webGLshader" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="webGLshader" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="CH03" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RotatedTriangle" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="934ce0ae-31f7-4c83-b820-fb1c88dc5ee9" name="Default" comment="" />
+      <created>1441682037320</created>
+      <option name="number" value="Default" />
+      <updated>1441682037320</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="202" y="23" width="1166" height="837" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24978165" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/CH03/RotatedTriangle/RotatedTriangle.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CH03/RotatedTriangle/RotatedTriangle.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.62589926">
+          <caret line="29" column="42" selection-start-line="29" selection-start-column="42" selection-end-line="29" selection-end-column="42" />
+          <folding>
+            <marker date="1441681795000" expanded="true" signature="330:553" placeholder="{...}" />
+            <marker date="1441681795000" expanded="true" signature="638:701" placeholder="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

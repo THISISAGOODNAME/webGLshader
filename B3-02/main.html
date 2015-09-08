@@ -1,0 +1,65 @@
+<!--
+原生webGL的着色器
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>webGL shaders</title>
+
+    <style type="text/css">
+        canvas { background: blue; }
+    </style>
+</head>
+
+<script id="vertex-shader" type="x-shader/x-vertex">
+    #ifdef GL_ES
+    precision highp float;
+    #endif
+
+    attribute vec4 vPos;
+    attribute vec2 vTexCoord;
+    uniform float uFrame;  //帧数
+    varying vec2 texCoord;
+
+    void main() {
+        float angle = radians(uFrame);
+        float c = cos(angle);
+        float s = sin(angle);
+
+        mat4 m = mat4(1.0);
+
+        m[0][0] = c;
+        m[0][1] = s;
+        m[1][1] = c;
+        m[1][0] = -s;
+
+        texCoord = vTexCoord;
+        gl_Position = m * vPos;
+    }
+</script>
+
+<script id="fragment-shader" type="x-shader/x-fragment">
+    #ifdef GL_ES
+    precision highp float;
+    #endif
+
+    uniform sampler2D uTexture;
+    varying vec2 texCoord;
+
+    void main() {
+        gl_FragColor = texture2D(uTexture, texCoord);
+    }
+</script>
+
+<script src="../common/webgl-utils.js"></script>
+<script src="InitShaders.js"></script>
+<script src="demo.js"></script>
+
+<body>
+<canvas id="gl-canvas" width="512" height="512">
+    您的浏览器不支持canvas
+</canvas>
+</body>
+</html>
