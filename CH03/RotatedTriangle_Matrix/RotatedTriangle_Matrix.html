@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Rotate A Triangle (Matrix)</title>
+</head>
+
+<script id="vertex-shader" type="x-shader/x-vertex">
+    attribute vec4 a_Position;
+    uniform mat4 u_xformMatrix;
+    void main() {
+        gl_Position = u_xformMatrix * a_Position;
+    }
+</script>
+
+<script id="fragment-shader" type="x-shader/x-fragment">
+    void main() {
+        gl_FragColor = vec4(1.0, 0.0, 0.0, 1.0); //设置颜色
+    }
+</script>
+
+<body onload="main()">
+
+<canvas id="webgl" width="400" height="400">
+    Please use a browser that supports "canvas"
+</canvas>
+<script src="../../lib/webgl-utils.js"></script>
+<script src="../../lib/webgl-debug.js"></script>
+<script src="../../lib/cuon-utils.js"></script>
+<script src="RotatedTriangle_Matrix.js"></script>
+
+</body>
+
+</html>
