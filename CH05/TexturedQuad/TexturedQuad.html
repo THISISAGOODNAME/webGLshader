@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Draw quad with texture</title>
+</head>
+
+<script id="vertex-shader" type="x-shader/x-vertex">
+    attribute vec4 a_Position;
+    attribute vec2 a_TexCoord;
+    varying vec2 v_TexCoord; // varying变量
+    void main() {
+        gl_Position = a_Position;
+        v_TexCoord = a_TexCoord; // 将数据传输给片元着色器
+    }
+</script>
+
+<script id="fragment-shader" type="x-shader/x-fragment">
+    #ifdef GL_ES
+    precision mediump float;  // Precision qualifier (See Chapter 6)
+    #endif
+    uniform sampler2D u_Sampler;
+    varying vec2 v_TexCoord;
+    void main() {
+        gl_FragColor = texture2D(u_Sampler, v_TexCoord); //设置颜色
+    }
+</script>
+
+<body onload="main()">
+
+<canvas id="webgl" width="400" height="400">
+    Please use a browser that supports "canvas"
+</canvas>
+<script src="../../lib/webgl-utils.js"></script>
+<script src="../../lib/webgl-debug.js"></script>
+<script src="../../lib/cuon-utils.js"></script>
+<script src="../../lib/cuon-matrix.js"></script>
+<script src="TexturedQuad.js"></script>
+
+</body>
+
+</html>
